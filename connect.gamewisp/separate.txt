@@ -1,0 +1,73 @@
+if (url.StartsWith("http://dev.themadgamers.co.uk"))
+                    {
+                        callback = url;
+                        Console.WriteLine("Callback URL: " + callback);
+                        if (url.Contains("?error=access"))
+                        {
+                            wasSuccessful = false;
+                            error = "The resource owner or authorization server denied the request";
+                            finished = true;
+                            Authorization.Invoke((MethodInvoker)delegate
+                            {
+                                Authorization.Close();
+                            });
+                            MessageBox.Show("Access was denied to the Subathon Tool. Please click 'Accept' in order to continue. If this continues, please contact support.", "Access Denied to Authorize Gamewisp channel.", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+                        else
+                        {
+                            String webURL = String.Format(url);
+                            HttpWebRequest request = (HttpWebRequest)HttpWebRequest.Create(webURL);
+                            request.Credentials = CredentialCache.DefaultCredentials;
+
+                            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+                            if(response.StatusCode == HttpStatusCode.OK)
+                            {
+                                using (Stream dataStream = response.GetResponseStream())
+                                {
+                                    using (StreamReader reader = new StreamReader(dataStream, Encoding.UTF8))
+                                    {
+                                        String aResponse = reader.ReadToEnd();
+                                        Console.Write("Found code: " + aResponse + "\n");
+                                        try
+                                        {
+                                            var token = JsonConvert.DeserializeObject<successJSON>(aResponse);
+                                            Console.Write($"Found Access Token: {token.access_token} \n Found token type: {token.token_type} \n Refresh Token: {token.refresh_token} \n Expires in: {token.expires_in} \n Expires at: {token.expires_at} \n");
+                                            Console.WriteLine("success");
+                                            wasSuccessful = true;
+                                            finished = true;
+                                        }
+                                        catch(Exception Error)
+                                        {
+                                            Console.Write("Found error: " + aResponse + "\n");
+                                            try
+                                            {
+                                                var accessError = JsonConvert.DeserializeObject<errorJSON>(aResponse);
+                                                Console.Write($"Error: {accessError.error} \n Error Description: {accessError.error_description} \n");
+                                                wasSuccessful = false;
+                                                error = accessError.error_description;
+                                                finished = true;
+                                            }
+                                            catch(Exception err)
+                                            {
+                                                Console.WriteLine("Couldn't parse error from string - server error? - " + err);
+                                                wasSuccessful = false;
+                                                error = "Couldn't parse error string - assume server error";
+                                                finished = true;
+                                            }
+                                            
+                                        }
+
+                                    }
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("Encountered problem requesting the code - " + response.StatusCode.ToString());
+                                wasSuccessful = false;
+                                error = "Encountered problem requesting the code - " + response.StatusCode.ToString();
+                                finished = true;
+                            }
+                            response.Close();
+                            
+                        }
+                    }

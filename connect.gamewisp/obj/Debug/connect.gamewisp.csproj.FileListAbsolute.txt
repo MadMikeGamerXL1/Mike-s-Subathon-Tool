@@ -1,0 +1,7 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\Debug\connect.gamewisp.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\Debug\connect.gamewisp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\Debug\connect.gamewisp.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\Debug\connect.gamewisp.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\Debug\connect.gamewisp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\Debug\connect.gamewisp.authorization.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\Debug\connect.gamewisp.csproj.GenerateResource.Cache

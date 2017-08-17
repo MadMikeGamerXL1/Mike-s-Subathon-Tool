@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "subathontool", "subathontool\subathontool.csproj", "{1F904D11-087A-4B11-B916-0F54DB31F21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitchBits", "twitchBits\twitchBits.csproj", "{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connect.gamewisp", "connect.gamewisp\connect.gamewisp.csproj", "{70DC5A45-1527-42C8-8419-44B1DE137A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		toupload|Any CPU = toupload|Any CPU
+		toupload|Default = toupload|Default
+		toupload|x64 = toupload|x64
+		toupload|x86 = toupload|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Debug|Any CPU.Build.0 = Debug|x86
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Debug|x86.ActiveCfg = Debug|x86
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Release|Default.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Release|x64.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.Release|x86.ActiveCfg = Debug|x86
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.toupload|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.toupload|Default.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.toupload|x64.ActiveCfg = Debug|Any CPU
+		{1F904D11-087A-4B11-B916-0F54DB31F21D}.toupload|x86.ActiveCfg = Debug|x86
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Debug|Any CPU.Build.0 = Debug|x86
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Debug|x86.ActiveCfg = Debug|x86
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Release|Default.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Release|x64.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.Release|x86.ActiveCfg = Debug|x86
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.toupload|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.toupload|Default.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.toupload|x64.ActiveCfg = Debug|Any CPU
+		{A1A606A3-9BE8-4FCE-8805-635F9E8C139F}.toupload|x86.ActiveCfg = Debug|x86
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Debug|Any CPU.Build.0 = Debug|x86
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Debug|x86.ActiveCfg = Debug|x86
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Release|Default.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Release|x64.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.Release|x86.ActiveCfg = Debug|x86
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.toupload|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.toupload|Default.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.toupload|x64.ActiveCfg = Debug|Any CPU
+		{70DC5A45-1527-42C8-8419-44B1DE137A91}.toupload|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		toupload|Any CPU = toupload|Any CPU
+		toupload|Default = toupload|Default
+		toupload|x64 = toupload|x64
+		toupload|x86 = toupload|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		toupload|Any CPU = toupload|Any CPU
+		toupload|Default = toupload|Default
+		toupload|x64 = toupload|x64
+		toupload|x86 = toupload|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		toupload|Any CPU = toupload|Any CPU
+		toupload|Default = toupload|Default
+		toupload|x64 = toupload|x64
+		toupload|x86 = toupload|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		toupload|Any CPU = toupload|Any CPU
+		toupload|Default = toupload|Default
+		toupload|x64 = toupload|x64
+		toupload|x86 = toupload|x86
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		toupload|Any CPU = toupload|Any CPU
+		toupload|Default = toupload|Default
+		toupload|x64 = toupload|x64
+		toupload|x86 = toupload|x86
+	EndGlobalSection
+EndGlobal

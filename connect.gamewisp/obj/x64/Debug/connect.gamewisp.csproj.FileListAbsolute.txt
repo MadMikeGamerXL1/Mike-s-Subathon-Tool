@@ -1,0 +1,15 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\connect.gamewisp.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\connect.gamewisp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\x64\Debug\connect.gamewisp.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\x64\Debug\connect.gamewisp.authorization.resources
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\x64\Debug\connect.gamewisp.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\x64\Debug\connect.gamewisp.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\obj\x64\Debug\connect.gamewisp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\CefSharp.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\CefSharp.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\connect.gamewisp\bin\x64\Debug\Newtonsoft.Json.xml

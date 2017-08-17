@@ -1,0 +1,33 @@
++ Implemented a potential fix for icon not displaying, making it appear the program didn't open
++ New tabs for the homepage, replacing the previous tiles system
++ Added a new control bar at the top (may or may not stay, get your feedback in!)
++ Added a new status bar at the bottom.
++ Added a Pause/Resume Subathon button.
++ Added new contact options to quickly access Twitter, Discord, Knowledgebase, Email and the "About" window. Go to Help to access them
++ Added Word giveaway.
++ Added Bits store, along with Bits dictionaries.
++ Added Clips Tab. This will be worked on later.
++ Added Disconnect button to countdown, to abort any current IRC connections.
++ Added time converters to Countdown Settings - Now, you don't have to convert to seconds, you can enter the values you wish, and the Subathon Tool will convert them for you.
++ Added credits section to the Help tab - view the amazing support we've had. Is your name included? Mum, get the camera!
++ Added new security measures to ensure that your chat connection was successful. If it wasn't, it will attempt to reconnect.
++ Added crash detection behaviour - now, it'll prompt if you'd like to restore the previous countdown instead of resetting.
++ Added uptime memory behaviour - if you're detected offline, it will pause the uptime, instead of resetting it to 0 - useful for crashes.
++ Added new log files. Each session of the subathon tool will create a new log file, to avoid large files causing memory hogs.
++ Added support for $9.99 and $24.99 sub tiers.
++ Re-sub multiplier option now supports tiers.
+
+* Fixed !addtip command not working for the broadcaster.
+* Changed how Prime subs are detected (related to sub tier features)
+* Fixed the prompt that you're part-way through a subathon after the subathon is over.
+* Moved the stream indicator and uptime counter to the status bar.
+* Fixed the "Time is Up" message box from displaying which was supposed to be removed. 
+* Fixed the countdown stopping at 1 second left on the clock (related to the previous fix).
+
+- Removed Twitch chat button
+- Removed Feedback button
+- Removed MadGamerBot button
+- Removed Bits store button
+- Removed Options button
+- Removed About button. 
+- Removed Giveaway button.

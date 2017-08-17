@@ -1,0 +1,6 @@
++ Added a new Dashboard
++ Added new options to customise certain tiles on the Dashboard, under the Advanced tab.
++ Added command to add time manually. Currently it supports the following formats: !addtime [type - bits] [amount of bits] | !addtime [secs] | !addtime [type - sub|resub]
+* Fixed converter buttons not working under the countdown Settings tab.
+* Fixed the Subathon Tool not loading at all on first load for some machines (caused by a file that didn't exist until after first load).
+* Fixed timer displaying incorrectly when Windows is in another language.

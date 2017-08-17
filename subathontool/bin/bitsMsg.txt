@@ -1,0 +1,13 @@
+@"
+            {
+            ""type"": ""LISTEN"",
+            ""nonce"": ""fslfksfjfjsjfsje"",
+            ""data"": {
+                ""topics"": [""channel-bitsevents." + channelToConnect + @"""],
+                ""auth_token"": """ + oAuth + @"""
+                }
+            }
+            "
+
+
+qilcxpxoojjtptnsz82xf0t7c56hlz

@@ -1,0 +1,1632 @@
+Detected no # symbol in Channel textbox
+Exiting Settings. Current values; 
+ Channel: #ren
+[0:0] Exiting Settings. Current values; 
+ Channel: 
+[0:0] Detected no # symbol in Channel textbox
+[0:0] Exiting Settings. Current values; 
+ Channel: #reninsane
+[17:10] Exiting Settings. Current values; 
+ Channel: 
+[17:13] === Subathon Tool Initialising === 12 - 4 - 2016
+[17:14] === Subathon Tool Initialising === 12 - 4 - 2016
+[17:14] 12 - 4 - 2016
+[17:14] === Subathon Tool Initialising === 12 - 4 - 2016
+[17:14] 12 - 4 - 2016
+[17:14] Exiting Settings. Current values; 
+ Channel: 
+[17:14] === Subathon Tool Initialising === 12 - 4 - 2016
+[17:14] 12 - 4 - 2016
+[17:14] Exiting Settings. Current values; 
+ Channel: 
+[17:15] === Subathon Tool Initialising === 
+[17:15] 12 - 4 - 2016
+[17:15] Detected no # symbol in Channel textbox
+[17:15] Exiting Settings. Current values; 
+ Channel: #fdj sy erg sas
+[17:15] Detected no # symbol in Channel textbox
+[17:15] Exiting Settings. Current values; 
+ Channel: #reninsane
+[17:16] === Subathon Tool Initialising === 
+[17:16] 12 - 4 - 2016
+[20:29] === Subathon Tool Initialising === 
+[20:29] 12 - 4 - 2016
+[20:32] === Subathon Tool Initialising === 
+[20:32] 12 - 4 - 2016
+[20:33] === Subathon Tool Initialising === 
+[20:33] 12 - 4 - 2016
+[20:34] === Subathon Tool Initialising === 
+[20:34] 12 - 4 - 2016
+[20:37] === Subathon Tool Initialising === 
+[20:37] 12 - 4 - 2016
+[20:37] === Subathon Tool Initialising === 
+[20:37] 12 - 4 - 2016
+[20:38] === Subathon Tool Initialising === 
+[20:38] 12 - 4 - 2016
+[20:38] === Subathon Tool Initialising === 
+[20:38] 12 - 4 - 2016
+[20:42] === Subathon Tool Initialising === 
+[20:42] 12 - 4 - 2016
+[20:43] === Subathon Tool Initialising === 
+[20:43] 12 - 4 - 2016
+[20:47] === Subathon Tool Initialising === 
+[20:47] 12 - 4 - 2016
+[20:47] === Subathon Tool Initialising === 
+[20:47] 12 - 4 - 2016
+[20:56] === Subathon Tool Initialising === 
+[20:56] 12 - 4 - 2016
+[20:58] === Subathon Tool Initialising === 
+[20:58] 12 - 4 - 2016
+[21:2] === Subathon Tool Initialising === 
+[21:2] 12 - 4 - 2016
+[21:3] Exiting Settings. Current values; 
+ Channel: 
+[21:6] === Subathon Tool Initialising === 
+[21:6] 12 - 4 - 2016
+[21:57] === Subathon Tool Initialising === 
+[21:57] 12 - 4 - 2016
+[21:57] Connecting to servers...
+[21:57] Connected.
+[21:59] === Subathon Tool Initialising === 
+[21:59] 12 - 4 - 2016
+[21:59] Connecting to servers...
+[21:59] Connected.
+[22:0] Connecting to servers...
+[22:0] Connected.
+[22:0] === Subathon Tool Initialising === 
+[22:0] 12 - 4 - 2016
+[22:0] Connecting to servers...
+[22:0] Connected.
+[22:2] === Subathon Tool Initialising === 
+[22:2] 12 - 4 - 2016
+[22:2] Connecting to servers...
+[22:2] Connected.
+[22:28] === Subathon Tool Initialising === 
+[22:28] 12 - 4 - 2016
+[22:28] Connecting to servers...
+[22:28] Connected.
+[22:28] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:28] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:28] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:28] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:28] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:28] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:28] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:28] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[22:28] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[22:28] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[22:28] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :>stats
+[22:28] [IRC]:madgamerbot!madgamerbot@madgamerbot.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :madmikegamerxl1 | Global Loot: 57 | 1004 XP [Hot Chocolate Maker Level 2] | Win/Loss Ratio: 6.00
+[22:37] === Subathon Tool Initialising === 
+[22:37] 12 - 4 - 2016
+[22:37] === Subathon Tool Initialising === 
+[22:37] 12 - 4 - 2016
+[22:44] === Subathon Tool Initialising === 
+[22:44] 12 - 4 - 2016
+[22:44] Connecting to servers...
+[22:44] Connected.
+[22:44] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:44] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:44] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:44] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:44] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:44] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:44] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:44] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[22:44] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[22:44] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[22:44] Connecting to servers...
+[22:44] Connected.
+[22:44] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:44] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:44] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:44] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:44] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:44] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:44] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:44] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[22:44] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[22:44] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[22:44] === Subathon Tool Initialising === 
+[22:44] 12 - 4 - 2016
+[22:44] Connecting to servers...
+[22:44] Connected.
+[22:44] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:44] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:44] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:44] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:44] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:44] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:45] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:45] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[22:45] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[22:45] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[22:46] === Subathon Tool Initialising === 
+[22:46] 12 - 4 - 2016
+[22:46] Connecting to servers...
+[22:46] Connected.
+[22:46] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:46] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:46] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:46] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:46] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:46] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:46] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:46] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[22:46] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[22:46] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:15] === Subathon Tool Initialising === 
+[23:15] 12 - 4 - 2016
+[23:15] === Subathon Tool Initialising === 
+[23:15] 12 - 4 - 2016
+[23:15] === Subathon Tool Initialising === 
+[23:15] 12 - 4 - 2016
+[23:17] === Subathon Tool Initialising === 
+[23:17] 12 - 4 - 2016
+[23:17] === Subathon Tool Initialising === 
+[23:17] 12 - 4 - 2016
+[23:17] === Subathon Tool Initialising === 
+[23:17] 12 - 4 - 2016
+[23:25] === Subathon Tool Initialising === 
+[23:25] 12 - 4 - 2016
+[23:25] === Subathon Tool Initialising === 
+[23:25] 12 - 4 - 2016
+[23:27] === Subathon Tool Initialising === 
+[23:27] 12 - 4 - 2016
+[23:28] === Subathon Tool Initialising === 
+[23:28] 12 - 4 - 2016
+[23:30] === Subathon Tool Initialising === 
+[23:30] 12 - 4 - 2016
+[23:30] Connecting to servers...
+[23:30] Connected.
+[23:30] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:30] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:30] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:30] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:30] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:30] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:30] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:30] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:30] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:30] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:30] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:30] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:31] === Subathon Tool Initialising === 
+[23:31] 12 - 4 - 2016
+[23:31] Connecting to servers...
+[23:31] Connected.
+[23:31] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:31] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:31] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:31] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:31] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:31] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:31] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:31] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:31] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:31] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:32] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:32] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:34] === Subathon Tool Initialising === 
+[23:34] 12 - 4 - 2016
+[23:34] Connecting to servers...
+[23:34] Connected.
+[23:34] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:34] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:34] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:34] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:34] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:34] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:34] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:34] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:34] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:34] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:34] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:34] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:34] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:35] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:35] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:35] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:36] === Subathon Tool Initialising === 
+[23:36] 12 - 4 - 2016
+[23:36] Connecting to servers...
+[23:36] Connected.
+[23:36] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:36] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:36] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:36] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:36] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:36] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:36] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:36] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:36] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:36] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:36] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:36] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:42] === Subathon Tool Initialising === 
+[23:42] 12 - 4 - 2016
+[23:42] Connecting to servers...
+[23:42] Connected.
+[23:42] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:42] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:42] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:42] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:42] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:42] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:42] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:42] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:42] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:42] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:42] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:43] === Subathon Tool Initialising === 
+[23:43] 12 - 4 - 2016
+[23:43] Connecting to servers...
+[23:43] Connected.
+[23:43] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:43] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:44] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:44] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:44] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:44] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:44] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:44] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:44] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:44] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:44] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:44] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:45] === Subathon Tool Initialising === 
+[23:45] 12 - 4 - 2016
+[23:45] Connecting to servers...
+[23:45] Connected.
+[23:45] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:45] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:45] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:45] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:45] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:45] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:45] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:45] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:45] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:45] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:45] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:46] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[23:46] === Subathon Tool Initialising === 
+[23:46] 12 - 4 - 2016
+[23:47] Connecting to servers...
+[23:47] Connected.
+[23:47] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[23:47] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[23:47] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[23:47] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[23:47] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[23:47] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[23:47] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[23:47] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[23:47] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[23:47] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[23:47] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:25] === Subathon Tool Initialising === 
+[13:25] 13 - 4 - 2016
+[13:25] Connecting to servers...
+[13:25] Connected.
+[13:25] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[13:25] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[13:25] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[13:25] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[13:25] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[13:25] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[13:25] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[13:25] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[13:25] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[13:25] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[13:26] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:26] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:26] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:27] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:31] === Subathon Tool Initialising === 
+[13:31] 13 - 4 - 2016
+[13:32] === Subathon Tool Initialising === 
+[13:32] 13 - 4 - 2016
+[13:32] Connecting to servers...
+[13:32] Connected.
+[13:32] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[13:32] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[13:32] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[13:32] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[13:32] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[13:32] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[13:32] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[13:32] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[13:32] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[13:32] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[13:32] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:40] === Subathon Tool Initialising === 
+[13:40] 13 - 4 - 2016
+[13:40] Connecting to servers...
+[13:40] Connected.
+[13:40] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[13:40] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[13:40] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[13:40] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[13:40] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[13:40] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[13:40] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[13:40] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[13:40] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[13:40] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[13:40] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:41] === Subathon Tool Initialising === 
+[13:41] 13 - 4 - 2016
+[13:41] Connecting to servers...
+[13:41] Connected.
+[13:41] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[13:41] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[13:41] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[13:41] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[13:41] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[13:41] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[13:41] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[13:41] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[13:41] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[13:41] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[13:41] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[13:52] === Subathon Tool Initialising === 
+[13:52] 13 - 4 - 2016
+[13:52] Connecting to servers...
+[13:52] Connected.
+[13:52] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[13:52] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[13:52] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[13:52] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[13:52] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[13:52] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[13:52] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[13:52] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[13:52] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[13:52] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[13:52] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[14:1] === Subathon Tool Initialising === 
+[14:1] 13 - 4 - 2016
+[14:1] Connecting to servers...
+[14:1] Connected.
+[14:1] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[14:1] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[14:1] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[14:1] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[14:1] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[14:1] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[14:1] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[14:1] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[14:1] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[14:1] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[14:1] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[14:1] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[14:26] === Subathon Tool Initialising === 
+[14:26] 13 - 4 - 2016
+[14:28] === Subathon Tool Initialising === 
+[14:28] 13 - 4 - 2016
+[14:29] === Subathon Tool Initialising === 
+[14:29] 13 - 4 - 2016
+[14:30] Connecting to servers...
+[14:30] Connected.
+[14:30] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[14:30] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[14:30] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[14:30] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[14:30] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[14:30] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[14:30] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[14:30] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[14:30] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[14:30] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[14:30] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :Madgamerbot just subscribed!
+[14:30] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :Madgamerbot just subscribed!
+[14:31] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madmikegamerxl1 :just subscribed
+[14:56] === Subathon Tool Initialising === 
+[14:56] 13 - 4 - 2016
+[14:59] === Subathon Tool Initialising === 
+[14:59] 13 - 4 - 2016
+[15:0] Closing Twitch chat window.
+[15:0] Chat Window closed successfully.
+[15:0] Clearing text file.
+[15:0] Successfully cleared text file. 
+[15:0] === Subathon Tool Initialising === 
+[15:0] 13 - 4 - 2016
+[15:0] Closing Twitch chat window.
+[15:0] Chat Window closed successfully.
+[15:0] Clearing text file.
+[15:0] Successfully cleared text file. 
+[15:1] === Subathon Tool Initialising === 
+[15:1] 13 - 4 - 2016
+[15:2] Closing Twitch chat window.
+[15:2] Chat Window closed successfully.
+[15:2] Clearing text file.
+[15:2] Successfully cleared text file. 
+[15:13] === Subathon Tool Initialising === 
+[15:13] 13 - 4 - 2016
+[15:13] Closing Twitch chat window.
+[15:13] Chat Window closed successfully.
+[15:13] Clearing text file.
+[15:13] Successfully cleared text file. 
+[15:14] === Subathon Tool Initialising === 
+[15:14] 13 - 4 - 2016
+[15:14] Closing Twitch chat window.
+[15:14] Chat Window closed successfully.
+[15:14] Clearing text file.
+[15:14] Successfully cleared text file. 
+[15:15] === Subathon Tool Initialising === 
+[15:15] 13 - 4 - 2016
+[15:15] Closing Twitch chat window.
+[15:15] Chat Window closed successfully.
+[15:15] Clearing text file.
+[15:15] Successfully cleared text file. 
+[15:23] === Subathon Tool Initialising === 
+[15:23] 13 - 4 - 2016
+[15:23] Closing Twitch chat window.
+[15:23] Chat Window closed successfully.
+[15:23] Clearing text file.
+[15:23] Successfully cleared text file. 
+[15:30] === Subathon Tool Initialising === 
+[15:30] 13 - 4 - 2016
+[15:32] === Subathon Tool Initialising === 
+[15:32] 13 - 4 - 2016
+[15:32] Couldn't play file horse-neigh - System.IO.FileNotFoundException: Please be sure a sound file exists at the specified location.
+File name: './data/Horse-neigh.mp3'
+   at System.Media.SoundPlayer.ValidateSoundFile(String fileName)
+   at System.Media.SoundPlayer.LoadAndPlay(Int32 flags)
+   at System.Media.SoundPlayer.Play()
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 33
+[15:32] Couldn't play file horse-neigh - System.IO.FileNotFoundException: Please be sure a sound file exists at the specified location.
+File name: './data/Horse-neigh.mp3'
+   at System.Media.SoundPlayer.ValidateSoundFile(String fileName)
+   at System.Media.SoundPlayer.LoadAndPlay(Int32 flags)
+   at System.Media.SoundPlayer.Play()
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 33
+[15:32] Couldn't play file horse-neigh - System.IO.FileNotFoundException: Please be sure a sound file exists at the specified location.
+File name: './data/Horse-neigh.mp3'
+   at System.Media.SoundPlayer.ValidateSoundFile(String fileName)
+   at System.Media.SoundPlayer.LoadAndPlay(Int32 flags)
+   at System.Media.SoundPlayer.Play()
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 33
+[15:33] Closing Twitch chat window.
+[15:33] Chat Window closed successfully.
+[15:33] Clearing text file.
+[15:33] Successfully cleared text file. 
+[15:34] === Subathon Tool Initialising === 
+[15:34] 13 - 4 - 2016
+[15:35] Closing Twitch chat window.
+[15:35] Chat Window closed successfully.
+[15:35] Clearing text file.
+[15:35] Successfully cleared text file. 
+[15:35]  
+[15:35] === Subathon Tool Initialising === 
+[15:35] 13 - 4 - 2016
+[15:35] Closing Twitch chat window.
+[15:35] Chat Window closed successfully.
+[15:35] Clearing text file.
+[15:35] Successfully cleared text file. 
+[15:35]  
+[15:53] === Subathon Tool Initialising === 
+[15:53] 13 - 4 - 2016
+[15:54] Closing Twitch chat window.
+[15:54] Chat Window closed successfully.
+[15:54] Clearing text file.
+[15:54] Successfully cleared text file. 
+[15:54]  
+[16:2] === Subathon Tool Initialising === 
+[16:2] 13 - 4 - 2016
+[16:3] Closing Twitch chat window.
+[16:3] Chat Window closed successfully.
+[16:3] Clearing text file.
+[16:3] Successfully cleared text file. 
+[16:3]  
+[16:4] === Subathon Tool Initialising === 
+[16:4] 13 - 4 - 2016
+[16:5] Closing Twitch chat window.
+[16:5] Chat Window closed successfully.
+[16:5] Clearing text file.
+[16:5] Successfully cleared text file. 
+[16:5]  
+[16:5] === Subathon Tool Initialising === 
+[16:5] 13 - 4 - 2016
+[16:5] Closing Twitch chat window.
+[16:5] Chat Window closed successfully.
+[16:5] Clearing text file.
+[16:5] Successfully cleared text file. 
+[16:5]  
+[16:7] === Subathon Tool Initialising === 
+[16:7] 13 - 4 - 2016
+[16:7] Parsing URL tmi.twitch.tv failed - 
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'Newtonsoft.Json.Linq.JObject' to 'string'. An explicit conversion exists (are you missing a cast?)
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 48
+[16:7] Closing Twitch chat window.
+[16:7] Chat Window closed successfully.
+[16:7] Clearing text file.
+[16:7] Successfully cleared text file. 
+[16:7]  
+[16:10] === Subathon Tool Initialising === 
+[16:10] 13 - 4 - 2016
+[16:10] Parsing URL tmi.twitch.tv failed - 
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'Newtonsoft.Json.Linq.JObject' to 'string'. An explicit conversion exists (are you missing a cast?)
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 48
+[16:10] Closing Twitch chat window.
+[16:10] Chat Window closed successfully.
+[16:10] Clearing text file.
+[16:10] Successfully cleared text file. 
+[16:10]  
+[16:11] === Subathon Tool Initialising === 
+[16:11] 13 - 4 - 2016
+[16:11] Parsing URL tmi.twitch.tv failed - 
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'Newtonsoft.Json.Linq.JObject' to 'string'. An explicit conversion exists (are you missing a cast?)
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 48
+[16:11] Closing Twitch chat window.
+[16:11] Chat Window closed successfully.
+[16:11] Clearing text file.
+[16:11] Successfully cleared text file. 
+[16:11]  
+[16:14] === Subathon Tool Initialising === 
+[16:14] 13 - 4 - 2016
+[16:14] Closing Twitch chat window.
+[16:14] Chat Window closed successfully.
+[16:14] Clearing text file.
+[16:14] Successfully cleared text file. 
+[16:14]  
+[16:15] === Subathon Tool Initialising === 
+[16:15] 13 - 4 - 2016
+[16:15] Parsing URL tmi.twitch.tv failed - 
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object , Int32 )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet](CallSite site, T0 arg0, T1 arg1)
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 48
+[16:15] Closing Twitch chat window.
+[16:15] Chat Window closed successfully.
+[16:15] Clearing text file.
+[16:15] Successfully cleared text file. 
+[16:15]  
+[16:19] === Subathon Tool Initialising === 
+[16:19] 13 - 4 - 2016
+[16:19] Parsing URL tmi.twitch.tv failed - 
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot implicitly convert type 'Newtonsoft.Json.Linq.JArray' to 'string'. An explicit conversion exists (are you missing a cast?)
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 50
+[16:19] Closing Twitch chat window.
+[16:19] Chat Window closed successfully.
+[16:19] Clearing text file.
+[16:19] Successfully cleared text file. 
+[16:19]  
+[16:21] === Subathon Tool Initialising === 
+[16:21] 13 - 4 - 2016
+[16:21] Parsing URL tmi.twitch.tv failed - 
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 'Newtonsoft.Json.Linq.JArray' does not contain a definition for 'length'
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 50
+[16:21] Closing Twitch chat window.
+[16:21] Chat Window closed successfully.
+[16:21] Clearing text file.
+[16:21] Successfully cleared text file. 
+[16:21]  
+[16:21] === Subathon Tool Initialising === 
+[16:21] 13 - 4 - 2016
+[16:21] Closing Twitch chat window.
+[16:21] Chat Window closed successfully.
+[16:21] Clearing text file.
+[16:21] Successfully cleared text file. 
+[16:21]  
+[16:30] === Subathon Tool Initialising === 
+[16:30] 13 - 4 - 2016
+[16:30] Parsing URL tmi.twitch.tv failed - 
+Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: 'Newtonsoft.Json.Linq.JArray' does not contain a definition for 'length'
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at subathontool.giveaway.refreshList_Click(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 54
+[16:31] Closing Twitch chat window.
+[16:31] Chat Window closed successfully.
+[16:31] Clearing text file.
+[16:31] Successfully cleared text file. 
+[16:31]  
+[16:33] === Subathon Tool Initialising === 
+[16:33] 13 - 4 - 2016
+[16:33] Closing Twitch chat window.
+[16:33] Chat Window closed successfully.
+[16:33] Clearing text file.
+[16:33] Successfully cleared text file. 
+[16:33]  
+[16:36] === Subathon Tool Initialising === 
+[16:36] 13 - 4 - 2016
+[16:36] Closing Twitch chat window.
+[16:36] Chat Window closed successfully.
+[16:36] Clearing text file.
+[16:36] Successfully cleared text file. 
+[16:36]  
+[16:45] === Subathon Tool Initialising === 
+[16:45] 13 - 4 - 2016
+[16:53] === Subathon Tool Initialising === 
+[16:53] 13 - 4 - 2016
+[16:55] Closing Twitch chat window.
+[16:55] Chat Window closed successfully.
+[16:55] Clearing text file.
+[16:55] Successfully cleared text file. 
+[16:55]  
+[17:27] === Subathon Tool Initialising === 
+[17:27] 13 - 4 - 2016
+[17:29] === Subathon Tool Initialising === 
+[17:29] 13 - 4 - 2016
+[17:29] Caught Exception while reading JSON file: System.IO.FileNotFoundException: Could not find file 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'.
+File name: 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding, Boolean checkHost)
+   at System.IO.File.ReadAllText(String path)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 30
+[17:29] Detected no # symbol in Channel textbox
+[17:29] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 30
+[17:33] === Subathon Tool Initialising === 
+[17:33] 13 - 4 - 2016
+[17:33] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 30
+[17:33] Closing Twitch chat window.
+[17:33] Chat Window closed successfully.
+[17:33] Clearing text file.
+[17:33] Successfully cleared text file. 
+[17:33]  
+[17:36] === Subathon Tool Initialising === 
+[17:36] 13 - 4 - 2016
+[17:36] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 30
+[17:36] Detected no # symbol in Channel textbox
+[17:36] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 30
+[17:36] Exiting Settings. Current values; 
+ Channel: 
+[18:2] === Subathon Tool Initialising === 
+[18:2] 13 - 4 - 2016
+[18:2] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(TextReader reader, Type objectType)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 34
+[18:3] Closing Twitch chat window.
+[18:3] Chat Window closed successfully.
+[18:3] Clearing text file.
+[18:3] Successfully cleared text file. 
+[18:3]  
+[18:8] === Subathon Tool Initialising === 
+[18:8] 13 - 4 - 2016
+[18:8] Caught Exception while reading JSON file: System.InvalidCastException: Unable to cast object of type 'System.Collections.Generic.List`1[subathontool.settingsForm+data]' to type 'data'.
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 34
+[18:8] Closing Twitch chat window.
+[18:8] Chat Window closed successfully.
+[18:8] Clearing text file.
+[18:8] Successfully cleared text file. 
+[18:8]  
+[18:10] === Subathon Tool Initialising === 
+[18:10] 13 - 4 - 2016
+[18:10] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(TextReader reader, Type objectType)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 35
+[18:10] Closing Twitch chat window.
+[18:10] Chat Window closed successfully.
+[18:10] Clearing text file.
+[18:10] Successfully cleared text file. 
+[18:10]  
+[18:12] === Subathon Tool Initialising === 
+[18:12] 13 - 4 - 2016
+[18:12] Caught Exception while reading JSON file: Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: S. Path '', line 0, position 0.
+   at Newtonsoft.Json.JsonTextReader.ParseValue()
+   at Newtonsoft.Json.JsonTextReader.Read()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.ReadForType(JsonReader reader, JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 36
+[18:12] Closing Twitch chat window.
+[18:12] Chat Window closed successfully.
+[18:12] Clearing text file.
+[18:12] Successfully cleared text file. 
+[18:12]  
+[19:22] === Subathon Tool Initialising === 
+[19:22] 13 - 4 - 2016
+[19:22] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 36
+[19:25] === Subathon Tool Initialising === 
+[19:25] 13 - 4 - 2016
+[19:25] Caught Exception while reading JSON file: Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'subathontool.settingsForm+data' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 36
+[19:25] Closing Twitch chat window.
+[19:25] Chat Window closed successfully.
+[19:25] Clearing text file.
+[19:25] Successfully cleared text file. 
+[19:25]  
+[19:35] === Subathon Tool Initialising === 
+[19:35] 13 - 4 - 2016
+[19:35] Caught Exception while reading JSON file: System.IO.FileNotFoundException: Could not find file 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'.
+File name: 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 32
+[19:35] Detected no # symbol in Channel textbox
+[19:35] Closing Twitch chat window.
+[19:35] Chat Window closed successfully.
+[19:35] Clearing text file.
+[19:35] Successfully cleared text file. 
+[19:35]  
+[19:35] === Subathon Tool Initialising === 
+[19:35] 13 - 4 - 2016
+[19:35] Closing Twitch chat window.
+[19:35] Chat Window closed successfully.
+[19:35] Clearing text file.
+[19:35] Successfully cleared text file. 
+[19:35]  
+[19:53] === Subathon Tool Initialising === 
+[19:53] 13 - 4 - 2016
+[19:53] Closing Twitch chat window.
+[19:53] Chat Window closed successfully.
+[19:53] Clearing text file.
+[19:53] Successfully cleared text file. 
+[19:53]  
+[19:53] === Subathon Tool Initialising === 
+[19:53] 13 - 4 - 2016
+[19:54] Closing Twitch chat window.
+[19:54] Chat Window closed successfully.
+[19:54] Clearing text file.
+[19:54] Successfully cleared text file. 
+[19:54]  
+[19:58] === Subathon Tool Initialising === 
+[19:58] 13 - 4 - 2016
+[19:58] Caught Exception while reading JSON file: System.IO.FileNotFoundException: Could not find file 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'.
+File name: 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 32
+[19:58] Closing Twitch chat window.
+[19:58] Chat Window closed successfully.
+[19:58] Clearing text file.
+[19:58] Successfully cleared text file. 
+[19:58]  
+[20:1] === Subathon Tool Initialising === 
+[20:1] 13 - 4 - 2016
+[20:1] Closing Twitch chat window.
+[20:1] Chat Window closed successfully.
+[20:1] Clearing text file.
+[20:1] Successfully cleared text file. 
+[20:1]  
+[20:2] === Subathon Tool Initialising === 
+[20:2] 13 - 4 - 2016
+[20:2] Caught Exception while reading JSON file: System.IO.FileNotFoundException: Could not find file 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'.
+File name: 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at subathontool.giveaway.checkSettings() in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 106
+[20:2] Caught Exception while reading JSON file: System.IO.FileNotFoundException: Could not find file 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'.
+File name: 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at subathontool.giveaway.checkSettings() in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\giveaway.cs:line 106
+[20:2] Caught Exception while reading JSON file: System.IO.FileNotFoundException: Could not find file 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'.
+File name: 'C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\bin\Debug\data\settings.json'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at subathontool.settingsForm.settingsForm_Load(Object sender, EventArgs e) in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\settingsForm.cs:line 32
+[20:3] Closing Twitch chat window.
+[20:3] Chat Window closed successfully.
+[20:3] Clearing text file.
+[20:3] Successfully cleared text file. 
+[20:3]  
+[20:9] === Subathon Tool Initialising === 
+[20:9] 13 - 4 - 2016
+[20:10] Closing Twitch chat window.
+[20:10] Chat Window closed successfully.
+[20:10] Clearing text file.
+[20:10] Successfully cleared text file. 
+[20:10]  
+[20:13] === Subathon Tool Initialising === 
+[20:13] 13 - 4 - 2016
+[20:14] Closing Twitch chat window.
+[20:14] Chat Window closed successfully.
+[20:14] Clearing text file.
+[20:14] Successfully cleared text file. 
+[20:14]  
+[20:14] === Subathon Tool Initialising === 
+[20:14] 13 - 4 - 2016
+[20:15] Closing Twitch chat window.
+[20:15] Chat Window closed successfully.
+[20:15] Clearing text file.
+[20:15] Successfully cleared text file. 
+[20:15]  
+[20:15] === Subathon Tool Initialising === 
+[20:15] 13 - 4 - 2016
+[20:15] Closing Twitch chat window.
+[20:15] Chat Window closed successfully.
+[20:15] Clearing text file.
+[20:15] Successfully cleared text file. 
+[20:15]  
+[20:16] === Subathon Tool Initialising === 
+[20:16] 13 - 4 - 2016
+[20:16] Closing Twitch chat window.
+[20:16] Chat Window closed successfully.
+[20:16] Clearing text file.
+[20:16] Successfully cleared text file. 
+[20:16]  
+[20:17] === Subathon Tool Initialising === 
+[20:17] 13 - 4 - 2016
+[20:17] Closing Twitch chat window.
+[20:17] Chat Window closed successfully.
+[20:17] Clearing text file.
+[20:17] Successfully cleared text file. 
+[20:17]  
+[20:23] === Subathon Tool Initialising === 
+[20:23] 13 - 4 - 2016
+[20:23] Closing Twitch chat window.
+[20:23] Chat Window closed successfully.
+[20:23] Clearing text file.
+[20:23] Successfully cleared text file. 
+[20:23]  
+[20:24] === Subathon Tool Initialising === 
+[20:24] 13 - 4 - 2016
+[20:25] Closing Twitch chat window.
+[20:25] Chat Window closed successfully.
+[20:25] Clearing text file.
+[20:25] Successfully cleared text file. 
+[20:25]  
+[21:15] === Subathon Tool Initialising === 
+[21:15] 13 - 4 - 2016
+[21:15] Closing Twitch chat window.
+[21:15] Chat Window closed successfully.
+[21:15] Clearing text file.
+[21:15] Successfully cleared text file. 
+[21:15]  
+[21:16] === Subathon Tool Initialising === 
+[21:16] 13 - 4 - 2016
+[21:16] Closing Twitch chat window.
+[21:16] Chat Window closed successfully.
+[21:16] Clearing text file.
+[21:16] Successfully cleared text file. 
+[21:16]  
+[21:17] === Subathon Tool Initialising === 
+[21:17] 13 - 4 - 2016
+[21:17] Closing Twitch chat window.
+[21:17] Chat Window closed successfully.
+[21:17] Clearing text file.
+[21:17] Successfully cleared text file. 
+[21:17]  
+[21:17] === Subathon Tool Initialising === 
+[21:17] 13 - 4 - 2016
+[21:17] Closing Twitch chat window.
+[21:17] Chat Window closed successfully.
+[21:17] Clearing text file.
+[21:17] Successfully cleared text file. 
+[21:17]  
+[21:18] === Subathon Tool Initialising === 
+[21:18] 13 - 4 - 2016
+[21:19] Closing Twitch chat window.
+[21:19] Chat Window closed successfully.
+[21:19] Clearing text file.
+[21:19] Successfully cleared text file. 
+[21:19]  
+[21:21] === Subathon Tool Initialising === 
+[21:21] 13 - 4 - 2016
+[21:21] Closing Twitch chat window.
+[21:21] Chat Window closed successfully.
+[21:21] Clearing text file.
+[21:21] Successfully cleared text file. 
+[21:21]  
+[21:21] === Subathon Tool Initialising === 
+[21:21] 13 - 4 - 2016
+[21:22] Closing Twitch chat window.
+[21:22] Chat Window closed successfully.
+[21:22] Clearing text file.
+[21:22] Successfully cleared text file. 
+[21:22]  
+[22:42] === Subathon Tool Initialising === 
+[22:42] 13 - 4 - 2016
+[22:42] Closing Twitch chat window.
+[22:42] Chat Window closed successfully.
+[22:42] Clearing text file.
+[22:42] Successfully cleared text file. 
+[22:42]  
+[14:3] === Subathon Tool Initialising === 
+[14:3] 14 - 4 - 2016
+[14:3] Closing Twitch chat window.
+[14:3] Chat Window closed successfully.
+[14:3] Clearing text file.
+[14:3] Successfully cleared text file. 
+[14:3]  
+[14:8] === Subathon Tool Initialising === 
+[14:8] 14 - 4 - 2016
+[14:8] Closing Twitch chat window.
+[14:8] Chat Window closed successfully.
+[14:8] Clearing text file.
+[14:8] Successfully cleared text file. 
+[14:8]  
+[14:8] === Subathon Tool Initialising === 
+[14:8] 14 - 4 - 2016
+[14:8] Closing Twitch chat window.
+[14:8] Chat Window closed successfully.
+[14:8] Clearing text file.
+[14:8] Successfully cleared text file. 
+[14:8]  
+[14:14] === Subathon Tool Initialising === 
+[14:14] 14 - 4 - 2016
+[14:14] Closing Twitch chat window.
+[14:14] Chat Window closed successfully.
+[14:14] Clearing text file.
+[14:14] Successfully cleared text file. 
+[14:14]  
+[14:17] --updatechecker-- Current application version: 1.6.0
+[14:17] === Subathon Tool Initialising === 
+[14:17] 14 - 4 - 2016
+[14:17] Closing Twitch chat window.
+[14:17] Chat Window closed successfully.
+[14:17] Clearing text file.
+[14:17] Successfully cleared text file. 
+[14:17]  
+[14:25] --updatechecker-- Current application version: 1.6.0
+[14:25] === Subathon Tool Initialising === 
+[14:25] 14 - 4 - 2016
+[14:25] Closing Twitch chat window.
+[14:25] Chat Window closed successfully.
+[14:25] Clearing text file.
+[14:25] Successfully cleared text file. 
+[14:25]  
+[14:26] --updatechecker-- Current application version: 1.6.0
+[14:26] === Subathon Tool Initialising === 
+[14:26] 14 - 4 - 2016
+[14:26] --updatechecker-- Current application version: 1.6.0
+[14:26] Closing Twitch chat window.
+[14:26] Chat Window closed successfully.
+[14:26] Clearing text file.
+[14:26] Successfully cleared text file. 
+[14:26]  
+[15:16] --updatechecker-- Current application version: 1.6.0
+[15:16] === Subathon Tool Initialising === 
+[15:16] 14 - 4 - 2016
+[15:16] Closing Twitch chat window.
+[15:16] Chat Window closed successfully.
+[15:16] Clearing text file.
+[15:16] Successfully cleared text file. 
+[15:16]  
+[15:21] --updatechecker-- Current application version: 1.6.0
+[15:21] === Subathon Tool Initialising === 
+[15:21] 14 - 4 - 2016
+[15:21] Closing Twitch chat window.
+[15:21] Chat Window closed successfully.
+[15:21] Clearing text file.
+[15:21] Successfully cleared text file. 
+[15:21]  
+[15:21] --updatechecker-- Current application version: 1.6.0
+[15:21] === Subathon Tool Initialising === 
+[15:21] 14 - 4 - 2016
+[15:21] Closing Twitch chat window.
+[15:21] Chat Window closed successfully.
+[15:21] Clearing text file.
+[15:21] Successfully cleared text file. 
+[15:21]  
+[15:21] --updatechecker-- Current application version: 1.6.0
+[15:21] === Subathon Tool Initialising === 
+[15:21] 14 - 4 - 2016
+[15:22] Closing Twitch chat window.
+[15:22] Chat Window closed successfully.
+[15:22] Clearing text file.
+[15:22] Successfully cleared text file. 
+[15:22]  
+[15:24] --updatechecker-- Current application version: 1.6.0
+[15:24] === Subathon Tool Initialising === 
+[15:24] 14 - 4 - 2016
+[15:24] Closing Twitch chat window.
+[15:24] Chat Window closed successfully.
+[15:24] Clearing text file.
+[15:24] Successfully cleared text file. 
+[15:24]  
+[15:24] --updatechecker-- Current application version: 1.6.0
+[15:24] === Subathon Tool Initialising === 
+[15:24] 14 - 4 - 2016
+[15:24] Closing Twitch chat window.
+[15:24] Chat Window closed successfully.
+[15:24] Clearing text file.
+[15:24] Successfully cleared text file. 
+[15:24]  
+[15:24] --updatechecker-- Current application version: 1.6.0
+[15:24] === Subathon Tool Initialising === 
+[15:24] 14 - 4 - 2016
+[15:25] Closing Twitch chat window.
+[15:25] Chat Window closed successfully.
+[15:25] Clearing text file.
+[15:25] Successfully cleared text file. 
+[15:25]  
+[15:25] --updatechecker-- Current application version: 1.6.0
+[15:25] === Subathon Tool Initialising === 
+[15:25] 14 - 4 - 2016
+[15:25] Closing Twitch chat window.
+[15:25] Chat Window closed successfully.
+[15:25] Clearing text file.
+[15:25] Successfully cleared text file. 
+[15:25]  
+[15:26] --updatechecker-- Current application version: 1.6.0
+[15:26] === Subathon Tool Initialising === 
+[15:26] 14 - 4 - 2016
+[15:26] Closing Twitch chat window.
+[15:26] Chat Window closed successfully.
+[15:26] Clearing text file.
+[15:26] Successfully cleared text file. 
+[15:26]  
+[16:51] --updatechecker-- Current application version: 1.6.0
+[16:51] === Subathon Tool Initialising === 
+[16:51] 14 - 4 - 2016
+[16:52] Closing Twitch chat window.
+[16:52] Chat Window closed successfully.
+[16:52] Clearing text file.
+[16:52] Successfully cleared text file. 
+[16:52]  
+[16:59] === Subathon Tool Initialising === 
+[16:59] 14 - 4 - 2016
+[17:0] Closing Twitch chat window.
+[17:0] Chat Window closed successfully.
+[17:0] Clearing text file.
+[17:0] Successfully cleared text file. 
+[17:0]  
+[17:0] --updatechecker-- Current application version: 1.6.0
+[17:0] === Subathon Tool Initialising === 
+[17:0] 14 - 4 - 2016
+[17:0] Closing Twitch chat window.
+[17:0] Chat Window closed successfully.
+[17:0] Clearing text file.
+[17:0] Successfully cleared text file. 
+[17:0]  
+[17:11] --updatechecker-- Current application version: 1.6.0
+[17:13] --updatechecker-- Current application version: 1.6.0
+[17:14] --updatechecker-- Current application version: 1.6.0
+[17:14] === Subathon Tool Initialising === 
+[17:14] 14 - 4 - 2016
+[17:14] Closing Twitch chat window.
+[17:14] Chat Window closed successfully.
+[17:14] Clearing text file.
+[17:14] Successfully cleared text file. 
+[17:14]  
+[17:15] --updatechecker-- Current application version: 1.6.0
+[17:16] === Subathon Tool Initialising === 
+[17:16] 14 - 4 - 2016
+[17:16] Closing Twitch chat window.
+[17:16] Chat Window closed successfully.
+[17:16] Clearing text file.
+[17:16] Successfully cleared text file. 
+[17:16]  
+[17:17] --updatechecker-- Current application version: 1.0.0
+[17:17] === Subathon Tool Initialising === 
+[17:17] 14 - 4 - 2016
+[17:17] Closing Twitch chat window.
+[17:17] Chat Window closed successfully.
+[17:17] Clearing text file.
+[17:17] Successfully cleared text file. 
+[17:17]  
+[17:17] --updatechecker-- Current application version: 1.0.7
+[17:18] --updatechecker-- Current application version: 1.0.7
+[17:18] === Subathon Tool Initialising === 
+[17:18] 14 - 4 - 2016
+[17:18] Closing Twitch chat window.
+[17:18] Chat Window closed successfully.
+[17:18] Clearing text file.
+[17:18] Successfully cleared text file. 
+[17:18]  
+[17:18] --updatechecker-- Current application version: 1.0.6
+[17:20] --updatechecker-- Current application version: 1.0.6
+[17:20] === Subathon Tool Initialising === 
+[17:20] 14 - 4 - 2016
+[17:20] Closing Twitch chat window.
+[17:20] Chat Window closed successfully.
+[17:20] Clearing text file.
+[17:20] Successfully cleared text file. 
+[17:20]  
+[17:20] --updatechecker-- Current application version: 1.0.6
+[17:24] --updatechecker-- Current application version: 1.0.6
+[17:24] === Subathon Tool Initialising === 
+[17:24] 14 - 4 - 2016
+[17:25] Closing Twitch chat window.
+[17:25] Chat Window closed successfully.
+[17:25] Clearing text file.
+[17:25] Successfully cleared text file. 
+[17:25]  
+[17:25] --updatechecker-- Current application version: 1.0.6
+[17:25] === Subathon Tool Initialising === 
+[17:25] 14 - 4 - 2016
+[17:25] Closing Twitch chat window.
+[17:25] Chat Window closed successfully.
+[17:25] Clearing text file.
+[17:25] Successfully cleared text file. 
+[17:25]  
+[17:26] --updatechecker-- Current application version: 1.0.6
+[17:28] --updatechecker-- Current application version: 1.0.6
+[17:30] --updatechecker-- Current application version: 1.0.6
+[17:32] --updatechecker-- Current application version: 1.0.6
+[17:34] --updatechecker-- Current application version: 1.0.6
+[17:34] === Subathon Tool Initialising === 
+[17:34] 14 - 4 - 2016
+[17:34] Closing Twitch chat window.
+[17:34] Chat Window closed successfully.
+[17:34] Clearing text file.
+[17:34] Successfully cleared text file. 
+[17:34]  
+[17:35] --updatechecker-- Current application version: 1.0.6
+[17:35] === Subathon Tool Initialising === 
+[17:35] 14 - 4 - 2016
+[17:35] Closing Twitch chat window.
+[17:35] Chat Window closed successfully.
+[17:35] Clearing text file.
+[17:35] Successfully cleared text file. 
+[17:35]  
+[17:35] --updatechecker-- Current application version: 1.0.6
+[17:35] Failed to start Updater program - System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at subathontool.updatecheck.checkUpdates() in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\updatecheck.cs:line 44
+[17:35] === Subathon Tool Initialising === 
+[17:35] 14 - 4 - 2016
+[17:35] Closing Twitch chat window.
+[17:35] Chat Window closed successfully.
+[17:35] Clearing text file.
+[17:35] Successfully cleared text file. 
+[17:35]  
+[17:39] --updatechecker-- Current application version: 1.0.6
+[17:39] Failed to start Updater program - System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at subathontool.updatecheck.checkUpdates() in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\updatecheck.cs:line 45
+[17:40] --updatechecker-- Current application version: 1.0.6
+[17:41] --updatechecker-- Current application version: 1.0.6
+[17:41] Loaded updater tool - shutting down application.
+[17:41] --updatechecker-- Current application version: 1.0.6
+[17:41] Failed to start Updater program - System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at subathontool.updatecheck.checkUpdates() in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\updatecheck.cs:line 45
+[17:42] --updatechecker-- Current application version: 1.0.6
+[17:42] Loaded updater tool - shutting down application.
+[17:42] 
+[17:42] --updatechecker-- Current application version: 1.0.6
+[17:42] Failed to start Updater program - System.ComponentModel.Win32Exception (0x80004005): The operation was canceled by the user
+   at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at subathontool.updatecheck.checkUpdates() in C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\subathontool\updatecheck.cs:line 45
+[17:42] --updatechecker-- Current application version: 1.0.6
+[17:43] Loaded updater tool - shutting down application.
+[17:43] 
+[17:47] --updatechecker-- Current application version: 1.0.6
+[17:47] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[17:47] --updatechecker-- Current application version: 1.0.7
+[17:47] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[17:47] Found latest version - 1.0.7 Current version: 1.0.7 - Application is up to date.
+[17:47] === Subathon Tool Initialising === 
+[17:47] 14 - 4 - 2016
+[17:47] Closing Twitch chat window.
+[17:47] Chat Window closed successfully.
+[17:47] Clearing text file.
+[17:47] Successfully cleared text file. 
+[17:47]  
+[21:3] --updatechecker-- Current application version: 1.0.8
+[21:3] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[21:3] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[21:3] === Subathon Tool Initialising === 
+[21:3] 14 - 4 - 2016
+[21:3] Connecting to servers...
+[21:3] Connected.
+[21:3] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[21:3] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[21:3] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[21:3] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[21:3] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[21:3] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[21:3] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[21:3] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[21:3] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[21:3] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[21:3] Closing Twitch chat window.
+[21:3] Chat Window closed successfully.
+[21:3] Clearing text file.
+[21:3] Successfully cleared text file. 
+[21:3]  
+[21:4] --updatechecker-- Current application version: 1.0.8
+[21:4] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[21:4] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[21:4] === Subathon Tool Initialising === 
+[21:4] 14 - 4 - 2016
+[21:4] Connecting to servers...
+[21:4] Connected.
+[21:4] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[21:4] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[21:4] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[21:4] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[21:4] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[21:4] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[21:4] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[21:4] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madmikegamerxl1
+[21:4] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madmikegamerxl1 :justinfan3456
+[21:4] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madmikegamerxl1 :End of /NAMES list
+[21:4] Closing Twitch chat window.
+[21:4] Chat Window closed successfully.
+[21:4] Clearing text file.
+[21:4] Successfully cleared text file. 
+[21:4]  
+[21:32] --updatechecker-- Current application version: 1.0.8
+[21:32] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[21:32] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[21:32] === Subathon Tool Initialising === 
+[21:32] 14 - 4 - 2016
+[21:32] Connecting to servers...
+[21:32] Connected.
+[21:32] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[21:32] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[21:32] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[21:32] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[21:32] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[21:32] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[21:32] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[21:32] Closing Twitch chat window.
+[21:32] Chat Window closed successfully.
+[21:32] Clearing text file.
+[21:32] Successfully cleared text file. 
+[21:32]  
+[21:56] --updatechecker-- Current application version: 1.0.8
+[21:56] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[21:56] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[21:56] === Subathon Tool Initialising === 
+[21:56] 14 - 4 - 2016
+[21:56] --updatechecker-- Current application version: 1.0.8
+[21:56] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[21:56] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[21:56] Detected no # symbol in Channel textbox
+[21:56] Connecting to servers...
+[21:56] Connected.
+[21:56] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[21:56] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[21:56] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[21:56] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[21:56] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[21:56] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[21:56] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[21:56] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #reninsane
+[21:56] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #reninsane :justinfan3456
+[21:56] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #reninsane :End of /NAMES list
+[21:57] [IRC]:orpheussummanus!orpheussummanus@orpheussummanus.tmi.twitch.tv PRIVMSG #reninsane :Kappa
+[21:57] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :Otherwise you wouldnt allow it
+[21:57] [IRC]:orpheussummanus!orpheussummanus@orpheussummanus.tmi.twitch.tv PRIVMSG #reninsane :if i had said 6 i wouldve forced ren to jump in Kappa
+[21:57] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :Lol
+[21:57] [IRC]:x0slipknot0x!x0slipknot0x@x0slipknot0x.tmi.twitch.tv PRIVMSG #reninsane :volumes fine Ren
+[21:58] [IRC]:orpheussummanus!orpheussummanus@orpheussummanus.tmi.twitch.tv PRIVMSG #reninsane :^
+[21:58] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :Find
+[21:58] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :Fine*
+[21:58] [IRC]:x0slipknot0x!x0slipknot0x@x0slipknot0x.tmi.twitch.tv PRIVMSG #reninsane :!currentsong
+[21:58] [IRC]:cray0nbot!cray0nbot@cray0nbot.tmi.twitch.tv PRIVMSG #reninsane :Current Song: Ed Sheeran - Photograph (Official Music Video) – Requested By x0slipknot0x
+[21:58] [IRC]:orpheussummanus!orpheussummanus@orpheussummanus.tmi.twitch.tv PRIVMSG #reninsane :ACTION judges ren
+[21:58] --updatechecker-- Current application version: 1.0.8
+[21:58] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[21:58] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[21:58] Detected no # symbol in Channel textbox
+[21:58] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :ACTION judges ren
+[21:59] Connecting to servers...
+[21:59] Connected.
+[21:59] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[21:59] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[21:59] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[21:59] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[21:59] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[21:59] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[21:59] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[21:59] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[21:59] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[21:59] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[21:59] [IRC]:x0slipknot0x!x0slipknot0x@x0slipknot0x.tmi.twitch.tv PRIVMSG #reninsane :ACTION Judges Ren Kappa
+[21:59] [IRC]:hellyeea!hellyeea@hellyeea.tmi.twitch.tv PRIVMSG #reninsane :who doesn't judge ren?
+[21:59] [IRC]:princessleah13!princessleah13@princessleah13.tmi.twitch.tv PRIVMSG #reninsane :!songrequest 8mkExvbCkg0
+[21:59] [IRC]:x_heyitssteph_x!x_heyitssteph_x@x_heyitssteph_x.tmi.twitch.tv PRIVMSG #reninsane :Who will hold my hand Kappa
+[21:59] [IRC]:cray0nbot!cray0nbot@cray0nbot.tmi.twitch.tv PRIVMSG #reninsane :princessleah13 --> The song The best ever "Dududu" spam ever! has been added to the queue.
+[21:59] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :Me steph
+[21:59] [IRC]:princessleah13!princessleah13@princessleah13.tmi.twitch.tv PRIVMSG #reninsane :Me Steph Kappa
+[21:59] [IRC]:x_heyitssteph_x!x_heyitssteph_x@x_heyitssteph_x.tmi.twitch.tv PRIVMSG #reninsane :Yay Kappa
+[21:59] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :Steph requests the best songs
+[22:0] [IRC]:fullmetalkhany!fullmetalkhany@fullmetalkhany.tmi.twitch.tv PRIVMSG #reninsane :!songrequest www.youtube.com/watch?v=p7cWGQ5gsDc
+[22:0] [IRC]:cray0nbot!cray0nbot@cray0nbot.tmi.twitch.tv PRIVMSG #reninsane :Sorry fullmetalkhany your link was not permitted
+[22:0] [IRC]:cray0nbot!cray0nbot@cray0nbot.tmi.twitch.tv PRIVMSG #reninsane :fullmetalkhany --> The song Pokemon Theme Song Original Lyrics FULL SONG has been added to the queue.
+[22:0] [IRC]:hellyeea!hellyeea@hellyeea.tmi.twitch.tv PRIVMSG #reninsane :i mean if you want to i'll be up for it ;)
+[22:0] [IRC]:x_heyitssteph_x!x_heyitssteph_x@x_heyitssteph_x.tmi.twitch.tv PRIVMSG #reninsane :Nah I don't. @roansas
+[22:0] [IRC]:roansas!roansas@roansas.tmi.twitch.tv PRIVMSG #reninsane :Rekt @fullmetalkhany
+[22:0] [IRC]:cray0nbot!cray0nbot@cray0nbot.tmi.twitch.tv PRIVMSG #reninsane :Fancy tipping reninsane and the stream because you like what Ren is doing. Well pop on over to this page https://www.twitchalerts.com/donate/reninsane
+[22:0] [IRC]:hellyeea!hellyeea@hellyeea.tmi.twitch.tv PRIVMSG #reninsane :you back oct?
+[22:0] [IRC]:hellyeea!hellyeea@hellyeea.tmi.twitch.tv PRIVMSG #reninsane :oops wrong chat
+[22:0] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madgamerbot :just subscribed
+[22:0] [IRC]:orpheussummanus!orpheussummanus@orpheussummanus.tmi.twitch.tv PRIVMSG #reninsane :did someone unban him already?
+[22:1] [IRC]PING :tmi.twitch.tv
+[22:1] [IRC]:princessleah13!princessleah13@princessleah13.tmi.twitch.tv PRIVMSG #reninsane :I requested 2 spam songs does that make me a bad person :O :O
+[22:1] [IRC]:minnie2292!minnie2292@minnie2292.tmi.twitch.tv PRIVMSG #reninsane :i did
+[22:1] [IRC]:moka898!moka898@moka898.tmi.twitch.tv PRIVMSG #reninsane :ACTION crawls in and hides behind @reninsane .
+[22:1] Connecting to servers...
+[22:1] Connected.
+[22:1] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:1] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:1] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:1] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:1] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:1] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:1] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:1] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[22:1] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[22:1] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[22:1] Connecting to servers...
+[22:1] Connected.
+[22:1] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:1] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:1] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:1] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:1] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:1] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:1] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:1] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[22:1] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[22:1] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[22:1] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madgamerbot :just subscribed
+[22:1] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madgamerbot :just subscribed
+[22:1] [IRC]:madmikegamerxl1!madmikegamerxl1@madmikegamerxl1.tmi.twitch.tv PRIVMSG #madgamerbot :just subscribed
+[22:1] Closing Twitch chat window.
+[22:1] Chat Window closed successfully.
+[22:1] Clearing text file.
+[22:1] Successfully cleared text file. 
+[22:1]  
+[22:22] --updatechecker-- Current application version: 1.0.8
+[22:22] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:22] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:22] === Subathon Tool Initialising === 
+[22:22] 14 - 4 - 2016
+[22:25] --updatechecker-- Current application version: 1.0.8
+[22:25] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:25] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:25] === Subathon Tool Initialising === 
+[22:25] 14 - 4 - 2016
+[22:25] Connecting to servers...
+[22:25] Connected.
+[22:25] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:25] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:25] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:25] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:25] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:25] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:25] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:25] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[22:25] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[22:25] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[22:25] Closing Twitch chat window.
+[22:25] Chat Window closed successfully.
+[22:25] Clearing text file.
+[22:25] Successfully cleared text file. 
+[22:25]  
+[22:47] --updatechecker-- Current application version: 1.0.8
+[22:47] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:47] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:47] === Subathon Tool Initialising === 
+[22:47] 14 - 4 - 2016
+[22:47] Connecting to servers...
+[22:47] Connected.
+[22:47] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:47] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:47] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:47] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:47] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:47] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:47] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:47] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[22:47] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[22:47] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[22:47] Closing Twitch chat window.
+[22:47] Chat Window closed successfully.
+[22:47] Clearing text file.
+[22:47] Successfully cleared text file. 
+[22:47]  
+[22:49] --updatechecker-- Current application version: 1.0.8
+[22:49] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:49] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:49] === Subathon Tool Initialising === 
+[22:49] 14 - 4 - 2016
+[22:49] Connecting to servers...
+[22:49] Connected.
+[22:49] Detected twitch chat is not open - opening window.
+[22:49] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:49] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:49] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:49] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:49] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:49] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:49] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:49] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[22:49] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[22:49] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[22:49] Detected twitch chat is open already - showing and restoring WindowState to Normal.
+[22:49] Successfully restored twitch chat window state.
+[22:52] --updatechecker-- Current application version: 1.0.8
+[22:52] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:52] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:52] === Subathon Tool Initialising === 
+[22:52] 14 - 4 - 2016
+[22:52] Connecting to servers...
+[22:52] Connected.
+[22:52] Detected twitch chat is not open - opening window.
+[22:52] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:52] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:52] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:52] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:52] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:52] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:52] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:52] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[22:52] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[22:52] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[22:52] Detected twitch chat is open already - showing and restoring WindowState to Normal.
+[22:52] Successfully restored twitch chat window state.
+[22:53] Detected twitch chat is not open - opening window.
+[22:53] Detected twitch chat is not open - opening window.
+[22:53] Closing Twitch chat window.
+[22:53] Chat Window closed successfully.
+[22:53] Clearing text file.
+[22:53] Successfully cleared text file. 
+[22:53]  
+[22:53] --updatechecker-- Current application version: 1.0.8
+[22:53] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:53] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:53] === Subathon Tool Initialising === 
+[22:53] 14 - 4 - 2016
+[22:53] Connecting to servers...
+[22:53] Connected.
+[22:53] Detected twitch chat is not open - opening window.
+[22:53] [IRC]:tmi.twitch.tv 001 justinfan3456 :Welcome, GLHF!
+[22:53] [IRC]:tmi.twitch.tv 002 justinfan3456 :Your host is tmi.twitch.tv
+[22:53] [IRC]:tmi.twitch.tv 003 justinfan3456 :This server is rather new
+[22:53] [IRC]:tmi.twitch.tv 004 justinfan3456 :-
+[22:53] [IRC]:tmi.twitch.tv 375 justinfan3456 :-
+[22:53] [IRC]:tmi.twitch.tv 372 justinfan3456 :You are in a maze of twisty passages, all alike.
+[22:53] [IRC]:tmi.twitch.tv 376 justinfan3456 :>
+[22:53] [IRC]:justinfan3456!justinfan3456@justinfan3456.tmi.twitch.tv JOIN #madgamerbot
+[22:53] [IRC]:justinfan3456.tmi.twitch.tv 353 justinfan3456 = #madgamerbot :justinfan3456
+[22:53] [IRC]:justinfan3456.tmi.twitch.tv 366 justinfan3456 #madgamerbot :End of /NAMES list
+[22:53] Detected twitch chat is open already - showing and restoring WindowState to Normal.
+[22:53] Successfully restored twitch chat window state.
+[22:53] Detected twitch chat is open already - showing and restoring WindowState to Normal.
+[22:53] Successfully restored twitch chat window state.
+[22:53] Detected twitch chat is not open - opening window.
+[22:53] Closing Twitch chat window.
+[22:53] Chat Window closed successfully.
+[22:53] Clearing text file.
+[22:53] Successfully cleared text file. 
+[22:53]  
+[22:56] --updatechecker-- Current application version: 1.0.8
+[22:56] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:56] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:56] === Subathon Tool Initialising === 
+[22:56] 14 - 4 - 2016
+[22:56] --updatechecker-- Current application version: 1.0.8
+[22:56] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[22:56] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[22:59] Closing Twitch chat window.
+[22:59] Chat Window closed successfully.
+[22:59] Clearing text file.
+[22:59] Successfully cleared text file. 
+[22:59]  
+[23:5] --updatechecker-- Current application version: 1.0.8
+[23:5] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[23:5] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[23:5] === Subathon Tool Initialising === 
+[23:5] 14 - 4 - 2016
+[23:5] --updatechecker-- Current application version: 1.0.8
+[23:5] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...
+[23:5] Found latest version - 1.0.8 Current version: 1.0.8 - Application is up to date.
+[23:6] Closing Twitch chat window.
+[23:6] Chat Window closed successfully.
+[23:6] Clearing text file.
+[23:6] Successfully cleared text file. 
+[23:6]  
+[14:0] --updatechecker-- Current application version: 1.0.8
+[14:0] Checking ' http://themadgamers.co.uk/twitchtools/subathontool/version.txt ' for latest known version...

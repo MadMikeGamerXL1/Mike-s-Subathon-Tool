@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\bin\x86\Debug\twitchBits.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\bin\x86\Debug\twitchBits.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\bin\x86\Debug\websocket-sharp.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\bin\x86\Debug\WebSocket4Net.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\bin\x86\Debug\websocket-sharp.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\obj\x86\Debug\twitchBits.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\obj\x86\Debug\twitchBits.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\obj\x86\Debug\twitchBits.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\subathontool\twitchBits\bin\x86\Debug\Newtonsoft.Json.xml
